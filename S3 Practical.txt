@@ -1,0 +1,15 @@
+S3  Practical:
+- Create a Bucket in S3.
+- Bucket --> Permission --> Block Public Access --> Disable
+- Bucket --> Permission --> Enable ACL setting
+- Make file public: Bucket --> Objects --> Select File --> Actions --> Make public using ACL
+
+Versioning:
+- Bucket --> Properties --> Versioning --> Enable 
+- Upload some data/files and make it public.
+- Delete the same data and try to recover by deleting the delete marker.
+
+Enable Static Website Hosting:
+--> Select Bucket -> Properties -> at the end of the page -> Enable static website hosting.
+--> Index Document: Index.html (Upload this file in Bucket --> Objects)
+--> Error Document: Error.html (Upload this file in Bucket --> Objects)
