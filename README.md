@@ -12,6 +12,9 @@ Finally, I validated the setup by accessing public files, testing version recove
 
 This project demonstrates how to configure and manage cloud storage using Amazon S3, including public access control, versioning for data recovery, and hosting a static website.
 
+<img width="900" height="1200" alt="S3 Bucket" src="https://github.com/user-attachments/assets/b8309cf2-2e55-4af8-9253-6e1609e09618" />
+
+
 # 🎯Objectives
 Create and configure an S3 bucket
 Manage public access and permissions using ACL
