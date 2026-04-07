@@ -60,6 +60,6 @@ Gained hands-on experience with S3 versioning and recovery
 Successfully hosted a static website on S3
 Understood real-world cloud storage and hosting concepts
 
-#🚀Conclusion
+# 🚀Conclusion
 
 This project showcases practical experience with AWS S3, including storage management, access control, versioning, and static website hosting, which are essential skills for cloud and DevOps roles.
